@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/daltoniam/switchboard/releases/download/v0.1.0/switchboard_0.1.0_windows_amd64.zip",
+            "bin": [
+                "switchboard.exe"
+            ],
+            "hash": "f504848322dbe179513c5ac4dd0375d64dab411c4e58a1dcf6483f82cddd1201"
+        },
+        "arm64": {
+            "url": "https://github.com/daltoniam/switchboard/releases/download/v0.1.0/switchboard_0.1.0_windows_arm64.zip",
+            "bin": [
+                "switchboard.exe"
+            ],
+            "hash": "6f48bd2daf361cb745f6250f6abf215ea2d01e9738cd68bf39d9582f6df3f3e4"
+        }
+    },
+    "homepage": "https://github.com/daltoniam/switchboard",
+    "license": "MIT",
+    "description": "Unified MCP server aggregating GitHub, Datadog, Linear, Sentry, Slack, and Metabase behind a single endpoint"
+}
