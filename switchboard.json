@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/daltoniam/switchboard/releases/download/v0.2.0/switchboard_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/daltoniam/switchboard/releases/download/v0.2.1/switchboard_0.2.1_windows_amd64.zip",
             "bin": [
                 "switchboard.exe"
             ],
-            "hash": "f7d38860f4385071f5b3669b6c8de6f50eb2d4c325b87bfd2e1b865ebab229d5"
+            "hash": "ef330dc99700cac844f21cf0906c15edf23de21369b80a68e6cde8b16314d25c"
         },
         "arm64": {
-            "url": "https://github.com/daltoniam/switchboard/releases/download/v0.2.0/switchboard_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/daltoniam/switchboard/releases/download/v0.2.1/switchboard_0.2.1_windows_arm64.zip",
             "bin": [
                 "switchboard.exe"
             ],
-            "hash": "efb6718c9dc411e95abbc550f5b8c96d9b94336ade3cb2e3893ba44260b8ede0"
+            "hash": "629f3514df06dd2fe069b9e2f8a55323c434902a891be4b47ae70ac8fdf6e04e"
         }
     },
     "homepage": "https://github.com/daltoniam/switchboard",
     "license": "MIT",
-    "description": "Unified MCP server aggregating GitHub, Datadog, Linear, Sentry, Slack, and Metabase behind a single endpoint"
+    "description": "Unified MCP server aggregating 17+ integrations (GitHub, Datadog, Linear, Slack, AWS, GCP, and more) behind a single endpoint"
 }
