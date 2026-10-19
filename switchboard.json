@@ -1,19 +1,19 @@
 {
-    "version": "2026.1019.1",
+    "version": "2026.1019.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/daltoniam/switchboard/releases/download/v2026.1019.1/switchboard_2026.1019.1_windows_amd64.zip",
+            "url": "https://github.com/daltoniam/switchboard/releases/download/v2026.1019.2/switchboard_2026.1019.2_windows_amd64.zip",
             "bin": [
                 "switchboard.exe"
             ],
-            "hash": "a180b3e3229c05b35a97e655ede41a4faf4d1145c2b1d572e8d96ec8d8c4de1e"
+            "hash": "27617d2905d0dd8bdf234d04b77178ae63c92f31813464eb53234575b1d734aa"
         },
         "arm64": {
-            "url": "https://github.com/daltoniam/switchboard/releases/download/v2026.1019.1/switchboard_2026.1019.1_windows_arm64.zip",
+            "url": "https://github.com/daltoniam/switchboard/releases/download/v2026.1019.2/switchboard_2026.1019.2_windows_arm64.zip",
             "bin": [
                 "switchboard.exe"
             ],
-            "hash": "90877993c8c7e8c555fe49108c4fea3a57bd0ad1bf5a430c4d34b7e7c17388a4"
+            "hash": "4ea06d6222418601a7db41abea6d8f68cda0befb49cea629e1b386748c6c1ee9"
         }
     },
     "homepage": "https://github.com/daltoniam/switchboard",
